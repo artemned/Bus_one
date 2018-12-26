@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/prefix">
+        <file>img/Actions-document-preview.png</file>
+        <file>img/add_bus.png</file>
+        <file>img/bus.jpg</file>
+        <file>img/bus_icon.jpg</file>
+        <file>img/for_bus.jpg</file>
+        <file>img/for_stop.jpg</file>
+        <file>img/forbus.jpg</file>
+        <file>img/images.jpg</file>
+        <file>img/saving_book-80.png</file>
+        <file>img/show_stop.png</file>
+        <file>img/bf.jpg</file>
+        <file>img/just_bus.jpg</file>
+        <file>img/center_icon.jpg</file>
+    </qresource>
+</RCC>
